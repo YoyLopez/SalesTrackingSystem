@@ -13,6 +13,8 @@ DAXs to record net profit from production.
 Finally, after the event, the capital invested was doubled in a period of 3 hours. The profit is presented in the following Dashboard:
 ![Captura de pantalla 2024-06-27 214229](https://github.com/YoyLopez/SalesTrackingSystem/assets/172577623/5a042b02-af24-46fa-9e1e-00d9051cf818)
 
+![Power BI](https://img.shields.io/badge/-PowerBI-F7DF1E?style=flat&logo=PowerBI)
+
 https://app.powerbi.com/view?r=eyJrIjoiMzYyMzgyNTYtOWVjOS00YTc2LThiMmYtN2I3MDU0Y2I0NzYxIiwidCI6ImQwMGQ4MDc3LTkwMjEtNDc1YS1iMzE3LTQ3M2U5YjcyN2UwYiIsImMiOjR9
 
 Created by: Yoy Lopez // Rodrigo Norabuena // Digital Marketing Team
