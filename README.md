@@ -11,7 +11,8 @@ to a Power BI environment, which tracks sales in real time as the database is up
 DAXs to record net profit from production.
 
 Finally, after the event, the capital invested was doubled in a period of 3 hours. The profit is presented in the following Dashboard:
-![Captura de pantalla 2024-06-27 214229](https://github.com/YoyLopez/SalesTrackingSystem/assets/172577623/5a042b02-af24-46fa-9e1e-00d9051cf818)
+
+![Captura de pantalla 2024-07-09 023007](https://github.com/YoyLopez/SalesTrackingSystem/assets/172577623/4d38997e-a93e-45ab-8f3b-306ce3602ced)
 
 ![Power BI](https://img.shields.io/badge/-PowerBI-F7DF1E?style=flat&logo=PowerBI)
 
